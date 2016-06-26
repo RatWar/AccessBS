@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server">
+        <item >MSK</item>
+        <item >SPB</item>
+        <item >KRR</item>
+        <item >NNV</item>
+        <item >EKT</item>
+        <item >NSK</item>
+        <item >VLD</item>
+    </string-array>
+    
+</resources>

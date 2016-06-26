@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_normal.9.png",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\drawable-hdpi\\button_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_mail.png",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\drawable-hdpi\\ic_action_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_send.png",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\drawable-hdpi\\ic_action_send.png"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_paste.png",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\drawable-hdpi\\ic_action_paste.png"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_off_on.xml",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\drawable-hdpi\\icon_off_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

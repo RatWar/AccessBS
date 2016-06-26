@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server">
+        <item>MSK</item>
+        <item>SPB</item>
+        <item>KRR</item>
+        <item>NNV</item>
+        <item>EKT</item>
+        <item>NSK</item>
+        <item>VLD</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AccessBS</string>
+    <string name="starAbout">AccessBS \n© Анваров Раис \n2014 (Оренбург) \ne-mail: ra7@bk.ru</string>
+    <string name="title_activity_Log">Log-файл</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_input">Ввод и исправление</string>
+    <string name="txtAbout">О программе</string>
+    <string name="txtAddress">№ Сайта</string>
+    <string name="txtCancel">Отмена</string>
+    <string name="txtClear">Стереть</string>
+    <string name="txtDeleteLog">Удалить Log</string>
+    <string name="txtEnd">END</string>
+    <string name="txtInput">Ввести</string>
+    <string name="txtLog">Log-файл</string>
+    <string name="txtNo">Нет</string>
+    <string name="txtQuit">Выход</string>
+    <string name="txtSent">sent</string>
+    <string name="txtSite">SITE_№</string>
+    <string name="txtStart">START</string>
+    <string name="txtWork">Номер работы</string>
+    <string name="txtYes">Да</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

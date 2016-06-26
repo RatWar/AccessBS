@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/it_Quit" android:title="@string/txtQuit"></item>
+    <item android:id="@+id/it_About" android:title="@string/txtAbout"></item>
+    <item android:id="@+id/it_Log" android:title="@string/txtLog"></item>
+
+</menu>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_input.xml",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\layout\\activity_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_log.xml",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\layout\\activity_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\arr\\AndroidStudioProjects\\AccessBS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
